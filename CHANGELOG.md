@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-19)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`80df49a`](https://github.com/stdlib-js/stdlib/commit/80df49a7bf7340d1f53d7c5330ae5295e9b94e17) - **refactor:** increase type specificity _(by Athan Reines)_
 -   [`ade7845`](https://github.com/stdlib-js/stdlib/commit/ade78451cd1c767865e5d0ca808aa85c49a5e544) - **docs:** add struct to docs _(by Athan Reines)_
 -   [`19ae8b4`](https://github.com/stdlib-js/stdlib/commit/19ae8b476a4e1ef220ff47168c5d1f8b74d80464) - **feat:** add header file with results struct _(by Athan Reines)_
 -   [`0b5a64c`](https://github.com/stdlib-js/stdlib/commit/0b5a64ca64a069922adce6cfc8f6eac2ca41b5f8) - **docs:** update copy and example _(by Athan Reines)_
