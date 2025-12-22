@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-15)
+## Unreleased (2025-12-22)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`61046bb`](https://github.com/stdlib-js/stdlib/commit/61046bb1c95923825493592bf78808fa1b18abc5) - **test:** add missing TypeScript declaration tests _(by Philipp Burckhardt)_
 -   [`4b3f6b6`](https://github.com/stdlib-js/stdlib/commit/4b3f6b66882ec35af639463719e8e2fd57bd4d10) - **docs:** fix missing periods _(by Athan Reines)_
 -   [`a0cba4f`](https://github.com/stdlib-js/stdlib/commit/a0cba4fddcaa21afc5862d5814c26e9d6c6c134c) - **test:** add tests for static methods _(by Athan Reines)_
 -   [`80df49a`](https://github.com/stdlib-js/stdlib/commit/80df49a7bf7340d1f53d7c5330ae5295e9b94e17) - **refactor:** increase type specificity _(by Athan Reines)_
@@ -41,9 +42,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
